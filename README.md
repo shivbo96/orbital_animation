@@ -1,6 +1,6 @@
 # Orbital Animations
 
-This app contains unbounded animations in flutter
+This app contains electron animation revolving in the orbit in flutter
 
 Created by Shivam Mishra [@shivbo96](https://github.com/shivbo96)
 
