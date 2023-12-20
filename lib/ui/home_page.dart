@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math' as math;
-import 'package:electron_project/model/model_class.dart';
-import 'package:electron_project/model/painter/orbit_painter.dart';
+import 'package:electron_project/model_class.dart';
+import 'package:electron_project/painter/orbit_painter.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

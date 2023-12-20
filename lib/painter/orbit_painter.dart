@@ -1,4 +1,4 @@
-import 'package:electron_project/model/model_class.dart';
+import 'package:electron_project/model_class.dart';
 import 'package:flutter/material.dart';
 
 import 'dart:math' as math;
